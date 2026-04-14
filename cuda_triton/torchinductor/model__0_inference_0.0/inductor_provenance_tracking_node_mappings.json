@@ -1,1 +1,0 @@
-{"preToPost": {"sin": ["sin"], "cos": ["cos"], "add": ["add"]}, "postToPre": {"sin": ["sin"], "cos": ["cos"], "add": ["add"]}, "cppCodeToPost": {"cpp_fused_add_cos_sin_0": ["add", "cos", "sin"]}, "postToCppCode": {"add": ["cpp_fused_add_cos_sin_0"], "cos": ["cpp_fused_add_cos_sin_0"], "sin": ["cpp_fused_add_cos_sin_0"]}}
